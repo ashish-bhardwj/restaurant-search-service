@@ -1,0 +1,10 @@
+com\eatza\restaurantsearch\service\MenuItemServiceTest.class
+com\eatza\restaurantsearch\service\JwtAuthenticationServiceTest.class
+com\eatza\restaurantsearch\repository\RestaurantRepositoryTest.class
+com\eatza\restaurantsearch\service\RestaurantServiceTest.class
+com\eatza\restaurantsearch\config\TestPropertyConfigs.class
+com\eatza\restaurantsearch\controller\MenuItemControllerTest.class
+com\eatza\restaurantsearch\controller\JwtControllerTest.class
+com\eatza\restaurantsearch\controller\RestaurantControllerTest.class
+com\eatza\restaurantsearch\service\MenuServiceTest.class
+com\eatza\restaurantsearch\config\SwaggerDocketConfigurationTest.class
