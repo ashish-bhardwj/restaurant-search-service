@@ -4,4 +4,4 @@ COPY ./target/restaurantsearchservice-*.jar restaurantsearchservice.jar
 
 EXPOSE 8083
 
-CMD ["java","-jar","-Dspring.profile.active=local","restaurantsearchservice.jar"]
+CMD ["java","-jar","restaurantsearchservice.jar"]
